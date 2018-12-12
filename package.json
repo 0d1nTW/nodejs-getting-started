@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-getting-started",
+  "version": "1.0.0",
+  "description": "Nodejs getting started Pluralsight course",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0d1nTW/nodejs-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0d1nTW/nodejs-getting-started/issues"
+  },
+  "homepage": "https://github.com/0d1nTW/nodejs-getting-started#readme"
+}

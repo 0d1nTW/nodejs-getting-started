@@ -1,7 +1,7 @@
 const { readFile } = require('fs').promises;
 
 async function main() {
-  const data = await readFile(__filename);
+  const data = await readFile(__filename, 'utf8');
   console.log('File data is', data);
 }
 
